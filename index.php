@@ -1,3 +1,3 @@
 <?php
 
-phpinfo();
+echo 'hello world from elastic-beanstalk';
